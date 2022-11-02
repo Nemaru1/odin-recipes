@@ -1,4 +1,4 @@
-# TOP_foundations_project_recipes
+# odin-recipes
 The Odin Project: HTML Foundations: Project: Recipes
 
 This is the Project for HTML foundations. Here I'll demonstrate my skills in HTML and, later, in CSS.
